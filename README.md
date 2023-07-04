@@ -26,7 +26,7 @@
 
 <ol>
   <li>Ensure you have Java Swing libraries installed on your machine.</li>
-  <li>Compile and run the <code>BankingSystemGUIApp</code> class.</li>
+  <li>Compile and run the <code>BankingSystemApp</code> class.</li>
   <li>Interact with the GUI interface to perform banking operations.</li>
 </ol>
 
