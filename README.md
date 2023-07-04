@@ -18,7 +18,7 @@
 <ol>
   <li>Clone the repository to your local machine.</li>
   <li>Open the project in your favorite Java IDE.</li>
-  <li>Compile and run the <code>BankingSystemConsoleApp</code> class.</li>
+  <li>Compile and run the <code>BankingSystemConsoleProgram</code> class.</li>
   <li>Follow the on-screen instructions to perform various banking operations.</li>
 </ol>
 
